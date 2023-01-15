@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-4xl my-16">Втрати танків русні</h1>
+  <h1 class="text-4xl my-16">Втрати бойових машин</h1>
   <Combat />
 </template>
 
